@@ -110,7 +110,7 @@ ORDER BY
 - ***Tableau*** is another highly sought-after skill, showing up in 6 job postings.
 - Other valuable skills include ***R***, ***Snowflake***, ***Pandas***, and ***Excel***, each with varying levels of demand.
 
-![Top Paying Roles](assets\Top_25_highest_paying_skills_for_data_analysts_in_2023.png)
+![Top Paying Roles]([assets\Top_25_highest_paying_skills_for_data_analysts_in_2023.png](https://github.com/Beffart/SQL_Project_Data_Job_Analysis/blob/main/assets/Top_25_highest_paying_skills_for_data_analysts_in_2023.png?raw=true))
 
 ### 3. In-Demand Skills for Data Analysts  
 
